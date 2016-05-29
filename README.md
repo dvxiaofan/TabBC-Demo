@@ -6,5 +6,5 @@
 
 ![演示效果](http://o7mwf03sy.bkt.clouddn.com/TabBarDemo.gif)
 
-### 我的Blog
+### 个人博客
 http://dvxiaofan.com
